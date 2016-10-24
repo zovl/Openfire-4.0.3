@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module relativePaths="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <exclude-exploded />
+    <output url="file://$MODULE_DIR$/target/plugins-dev" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../src/plugins">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/plugins/broadcast/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/plugins/contentFilter/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/plugins/emailListener/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/plugins/fastpath/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/plugins/loadStats/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/plugins/monitoring/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/plugins/motd/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/plugins/packetFilter/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/plugins/packetFilter/src/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/plugins/presence/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/plugins/registration/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/plugins/search/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/plugins/sip/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/plugins/subscription/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/plugins/userCreation/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/plugins/userImportExport/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/plugins/userservice/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/plugins/xmldebugger/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/plugins/callbackOnOffline/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/plugins/clientControl/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/plugins/clustering/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/plugins/dbaccess/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/plugins/emailOnAway/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/plugins/gojara/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/plugins/hazelcast/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/plugins/jingleNodes/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/plugins/jmxweb/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/plugins/justmarried/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/plugins/kraken/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/plugins/mucservice/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/plugins/nodejs/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/plugins/rayo/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/plugins/restAPI/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/plugins/stunserver/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/plugins/websocket/src/java" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/plugins/enterprise" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/plugins/gateway" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Admin" exported="" />
+  </component>
+</module>

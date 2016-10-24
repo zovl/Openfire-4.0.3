@@ -1,0 +1,5 @@
+# Openfire ignore
+make/
+target/
+work/
+*.class
